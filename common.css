@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'STELLAR-BOLD';
+    src: url("../../fonts/STELLAR-BOLD.OTF");
+  }
+  @font-face {
+    font-family: 'STELLAR-LIGHT';
+    src: url("../../fonts/STELLAR-LIGHT.OTF");
+  }
+  @font-face {
+    font-family: 'STELLAR';
+    src: url("../../fonts/STELLAR-REGULAR.OTF");
+  }
